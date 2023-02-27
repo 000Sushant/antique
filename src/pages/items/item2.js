@@ -22,7 +22,7 @@ export default function Item2() {
             </div>
             <div className='text-center'>
 
-            <Link to='/' className='col-3 btn btn-dark'>Go Back</Link>
+            <Link to='/antique' className='col-3 btn btn-dark'>Go Back</Link>
             </div>
         </div>
         {/* <Spline scene="https://prod.spline.design/QjjoPp9pCeBFJIAg/scene.splinecode" /> */}

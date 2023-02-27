@@ -18,7 +18,8 @@ function App() {
         {/* <Footer/> */}
       </nav>
       <Routes>
-          <Route index element={<Home />} />
+          <Route exact path='/antique' element={<Home />} />
+          {/* <Route exact path='/' element={<Home/>} /> */}
           <Route exact path='/collection' element={<Hxample/>} />
           <Route exact path='/item' element={<Item/>} />
           <Route exact path='/item2' element={<Item2/>} />
