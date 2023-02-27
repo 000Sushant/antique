@@ -1,7 +1,7 @@
 {
   "name": "antique",
   "version": "0.1.0",
-  "homepage": "https://000Sushant.github.io/react-gh-pages",
+  "homepage": "https://000Sushant.github.io/src",
   "private": true,
   "dependencies": {
     "@splinetool/react-spline": "^2.2.6",
